@@ -20,8 +20,9 @@ Last update 05-07-2024 <br> <br>
 </p>
 
 # Smart Corona Discharge Detector
+This hardware electronics is now being designed and prototyped in the coming weeks it has the main capability of detecting corona discharge indoors in a room. 
 
-Come back later.
+Come back later for more information and updates about this project. 
 
 
 ## Compatibility
